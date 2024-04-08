@@ -1,15 +1,10 @@
 Revision history for Perl extension Class::Meta.
 
 0.67
-      - Fixed another misspelling ind the documentation, thanks to Nathan
-        Handler and the Ubuntu project.
-      - Fixed a couple more typos in the Pod. Thanks to Grzegorz Rożniecki for
-        the pull request (#1).
+      -Hello My Name is Maybe this.
 
 0.66  2012-07-03T13:46:47Z
       - Fixed broken rt.cpan.org email address.
-      - Added missing call to `build()` in the synopsis. Thanks to Laurnet
-        Dami for the report (RT #72058).
       - Fixed a couple of typos in the Pod, with thanks to Gregor Herrmann and
         the Debian project (RT #78163).
 
